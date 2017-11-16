@@ -26,5 +26,7 @@ public class MainActivity extends AppCompatActivity {
         strategyCalculator.calculate(10);
 
 
+
+
     }
 }
